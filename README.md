@@ -1,9 +1,9 @@
 ## Author
 
-**Sahil Lallan Jha** ,
+**Lalit Tamta** ,
 **B.Sc. Data Science Student** ,
-**Student ID : 5593800** ,
-**Roll No : 28** ,
+**Student ID : 5608604** ,
+**Roll No : 65** ,
 **Subject : DAA** ,
 **College : B.K. Birla College of Arts, Science & Commerce**
 
